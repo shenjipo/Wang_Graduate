@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e744a359-5fcb-41b3-8605-f79c49d2d039" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ItUUBBQVVSamlWjhGy8BhOvNpP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/ATDC/data1" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ChengDu\data3" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ChengDu\data2" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ATDC" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ATDC\data1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ATDC\data1" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ChengDu\data2" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ChengDu\data1" />
+      <recent name="D:\document\pythonproject\TrajectoryAnomalyDetection2\data\ChengDu\data5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.12.ATDC算法(ATDC数据)">
+    <configuration name="11.MiPo算法(ATDC数据)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrajectoryAnomalyDetection2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.MiPo算法(ATDC数据).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12.ATDC算法(ATDC数据)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrajectoryAnomalyDetection2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.ATDC算法(ATDC数据).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15.实时性测试(A-1)_投票" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrajectoryAnomalyDetection2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.实时性测试(A-1)_投票.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16.实时性测试(A-1)_DBA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrajectoryAnomalyDetection2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.实时性测试(A-1)_DBA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wang_test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrajectoryAnomalyDetection2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wang_test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.12.ATDC算法(ATDC数据)" />
+        <item itemvalue="Python.11.MiPo算法(ATDC数据)" />
+        <item itemvalue="Python.16.实时性测试(A-1)_DBA" />
+        <item itemvalue="Python.15.实时性测试(A-1)_投票" />
+        <item itemvalue="Python.wang_test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e744a359-5fcb-41b3-8605-f79c49d2d039" name="Default Changelist" comment="" />
+      <created>1671000386907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671000386907</updated>
+      <workItem from="1671000388076" duration="12720000" />
+      <workItem from="1671070643525" duration="13292000" />
+      <workItem from="1671179048676" duration="1081000" />
+      <workItem from="1671762551719" duration="1299000" />
+      <workItem from="1671791638973" duration="619000" />
+      <workItem from="1671845272960" duration="30893000" />
+      <workItem from="1672028610390" duration="4247000" />
+      <workItem from="1672110259552" duration="596000" />
+      <workItem from="1672137589940" duration="54023000" />
+      <workItem from="1672474682474" duration="2948000" />
+      <workItem from="1672560701140" duration="4581000" />
+      <workItem from="1672646124666" duration="9875000" />
+      <workItem from="1672711115933" duration="4572000" />
+      <workItem from="1672733838519" duration="3634000" />
+      <workItem from="1672800209743" duration="26730000" />
+      <workItem from="1672970159390" duration="2594000" />
+      <workItem from="1673075732581" duration="7155000" />
+      <workItem from="1673263174541" duration="1402000" />
+      <workItem from="1673418899259" duration="15971000" />
+      <workItem from="1673516992974" duration="5215000" />
+      <workItem from="1673591414935" duration="8180000" />
+      <workItem from="1673600745733" duration="11234000" />
+      <workItem from="1673683123823" duration="1013000" />
+      <workItem from="1674462232091" duration="58000" />
+      <workItem from="1674462303604" duration="2602000" />
+      <workItem from="1674525250529" duration="10367000" />
+      <workItem from="1674612999713" duration="4112000" />
+      <workItem from="1674790940756" duration="2126000" />
+      <workItem from="1675330856893" duration="642000" />
+      <workItem from="1675334653161" duration="18000" />
+      <workItem from="1675411016284" duration="2413000" />
+      <workItem from="1675839243418" duration="1896000" />
+      <workItem from="1675857776588" duration="694000" />
+      <workItem from="1676011541830" duration="12935000" />
+      <workItem from="1676083453323" duration="290000" />
+      <workItem from="1676085664561" duration="7839000" />
+      <workItem from="1676185177593" duration="852000" />
+      <workItem from="1676451091262" duration="2274000" />
+      <workItem from="1676808534590" duration="135000" />
+      <workItem from="1677153582144" duration="3511000" />
+      <workItem from="1677322724320" duration="6196000" />
+      <workItem from="1677377741208" duration="1936000" />
+      <workItem from="1678071021552" duration="1860000" />
+      <workItem from="1678086220989" duration="172000" />
+      <workItem from="1678187857940" duration="746000" />
+      <workItem from="1678263275589" duration="7687000" />
+      <workItem from="1678329064496" duration="4583000" />
+      <workItem from="1678415266301" duration="6830000" />
+      <workItem from="1678434381376" duration="636000" />
+      <workItem from="1678710059399" duration="780000" />
+      <workItem from="1678765483818" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$08_DBA.coverage" NAME="08.DBA合并轨迹序列测试 Coverage Results" MODIFIED="1672566499658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$15__A_1__.coverage" NAME="15.实时性测试(A-1)_投票 Coverage Results" MODIFIED="1678329997909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$06_DTW_ATDC2_.coverage" NAME="06.DTW相似度(ATDC2数据) Coverage Results" MODIFIED="1672028633900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$15_DTW.coverage" NAME="15.DTW分析 Coverage Results" MODIFIED="1677326103969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$09_01__DBA_DTW_ATDC_.coverage" NAME="09(01).DBA_DTW相似度测试(ATDC数据) Coverage Results" MODIFIED="1676107022667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$12_ATDC_ATDC_.coverage" NAME="12.ATDC算法(ATDC数据) Coverage Results" MODIFIED="1678425227342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$06_DTW_ATDC_.coverage" NAME="06.合并DTW相似度(ATDC数据) Coverage Results" MODIFIED="1672227532508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$01__ChengDu_.coverage" NAME="01.聚类(ChengDu数据) Coverage Results" MODIFIED="1671870884539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$11_MiPo_ChengDu_.coverage" NAME="11.MiPo算法(ChengDu数据) Coverage Results" MODIFIED="1673611486638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$12_ATDC_ChengDu_.coverage" NAME="12.ATDC算法(ChengDu数据) Coverage Results" MODIFIED="1673611649516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$05_DTW_ATDC_.coverage" NAME="05.DTW相似度(ATDC数据) Coverage Results" MODIFIED="1676808653621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$10_02__DBA_DTW_ChengDu_.coverage" NAME="10(02).DBA_DTW相似度测试(ChengDu数据) Coverage Results" MODIFIED="1676106133602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$04_DTW_ChengDu_.coverage" NAME="04.DTW相似度(ChengDu数据) Coverage Results" MODIFIED="1672198120346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$wang_test1.coverage" NAME="wang_test1 Coverage Results" MODIFIED="1677328738008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$09_DBA_DTW_ATDC_.coverage" NAME="09.DBA_DTW相似度测试(ATDC数据) Coverage Results" MODIFIED="1672649548206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$00__ATDC_.coverage" NAME="00.特征生成(ATDC数据) Coverage Results" MODIFIED="1671091261613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1672225148890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$13_DTW_ATDC_.coverage" NAME="13.消融DTW投票(ATDC数据) Coverage Results" MODIFIED="1674535754123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1676103291438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$00_ATDC.coverage" NAME="00.ATDC数据可视化分析 Coverage Results" MODIFIED="1671016174533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$.coverage" NAME="数据可视化 Coverage Results" MODIFIED="1671935552743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$15_DBA.coverage" NAME="15.论文DBA效果图 Coverage Results" MODIFIED="1675420797411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$11_MiPo_ATDC_.coverage" NAME="11.MiPo算法(ATDC数据) Coverage Results" MODIFIED="1678421930080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$02_.coverage" NAME="02.投票法 Coverage Results" MODIFIED="1671872704471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$03__ChengDu_.coverage" NAME="03.交叉集相似度(ChengDu数据) Coverage Results" MODIFIED="1672141425259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$07_DTW_ChengDu_.coverage" NAME="07.合并DTW相似度(ChengDu数据) Coverage Results" MODIFIED="1672372082112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$wang_test2.coverage" NAME="wang_test2 Coverage Results" MODIFIED="1678279844476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$01__ATDC_.coverage" NAME="01.聚类(ATDC数据) Coverage Results" MODIFIED="1671071234503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$16__A_1__DBA.coverage" NAME="16.实时性测试(A-1)_DBA Coverage Results" MODIFIED="1678333544139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$utils.coverage" NAME="utils Coverage Results" MODIFIED="1671866570599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$10_01__DBA_DTW_ChengDu_.coverage" NAME="10(01).DBA_DTW相似度测试(ChengDu数据) Coverage Results" MODIFIED="1677326704558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$14_DTW_ChengDu_.coverage" NAME="14.消融DTW投票(ChengDu数据) Coverage Results" MODIFIED="1674616325098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrajectoryAnomalyDetection2$09_02__DBA_DTW_ATDC_.coverage" NAME="09(02).DBA_DTW相似度测试(ATDC数据) Coverage Results" MODIFIED="1678263388002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
